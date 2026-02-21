@@ -1,0 +1,3 @@
+Order.ID,Product.Name,Category,Sub.Category,Region,Sales,Profit,Is_Returned,Return.Reason,Return_Probability_%
+CA-2013-108196,Cubify CubeX 3D Printer Double Head Print,Technology,Machines,East,4500,-6599.978,1,Wrong Item Shipped,72.01
+CA-2014-134845,Lexmark MX611dhe Monochrome Laser Printer,Technology,Machines,West,2550,-3399.98,0,,70.83

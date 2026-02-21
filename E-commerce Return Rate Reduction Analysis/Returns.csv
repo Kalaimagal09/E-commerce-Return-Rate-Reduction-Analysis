@@ -1,0 +1,1518 @@
+Order.ID,Returned,Return.Reason
+CA-2011-151295,Yes,Arrived Damaged
+CA-2012-116092,Yes,Arrived Damaged
+CA-2013-162733,Yes,Not as Expected
+CA-2013-134803,Yes,Defective
+CA-2013-155033,Yes,Wrong Item Shipped
+CA-2014-120222,Yes,Wrong Item Shipped
+US-2014-109582,Yes,Arrived Damaged
+CA-2011-146528,Yes,Defective
+CA-2011-168305,Yes,Not as Expected
+CA-2013-109806,Yes,Not as Expected
+CA-2013-119018,Yes,Defective
+CA-2012-115945,Yes,Defective
+CA-2012-167745,Yes,Arrived Damaged
+US-2014-151127,Yes,Arrived Damaged
+CA-2011-106726,Yes,Arrived Damaged
+CA-2014-100825,Yes,Wrong Item Shipped
+CA-2013-100944,Yes,Defective
+CA-2013-144218,Yes,Arrived Damaged
+CA-2014-139437,Yes,Arrived Damaged
+CA-2011-115889,Yes,Arrived Damaged
+CA-2012-103716,Yes,Defective
+CA-2012-167255,Yes,Not as Expected
+CA-2012-127502,Yes,Arrived Damaged
+CA-2013-152800,Yes,Arrived Damaged
+CA-2013-147137,Yes,Defective
+CA-2013-112585,Yes,Wrong Item Shipped
+CA-2014-111738,Yes,Wrong Item Shipped
+CA-2014-112725,Yes,Wrong Item Shipped
+US-2014-141943,Yes,Not as Expected
+US-2014-104451,Yes,Not as Expected
+CA-2014-130841,Yes,Arrived Damaged
+CA-2014-130148,Yes,Wrong Item Shipped
+US-2014-153948,Yes,Wrong Item Shipped
+CA-2014-117457,Yes,Defective
+CA-2013-163384,Yes,Defective
+CA-2011-104780,Yes,Not as Expected
+CA-2013-117849,Yes,Arrived Damaged
+CA-2014-136875,Yes,Defective
+CA-2011-154669,Yes,Arrived Damaged
+CA-2011-109918,Yes,Wrong Item Shipped
+CA-2012-142454,Yes,Not as Expected
+CA-2012-126466,Yes,Not as Expected
+CA-2012-119508,Yes,Wrong Item Shipped
+CA-2013-151372,Yes,Not as Expected
+US-2013-113985,Yes,Not as Expected
+CA-2014-100650,Yes,Wrong Item Shipped
+CA-2014-129378,Yes,Defective
+CA-2014-142643,Yes,Wrong Item Shipped
+CA-2014-103380,Yes,Defective
+CA-2014-120936,Yes,Arrived Damaged
+US-2012-120957,Yes,Arrived Damaged
+US-2013-134369,Yes,Wrong Item Shipped
+US-2014-114034,Yes,Defective
+US-2013-168410,Yes,Defective
+CA-2013-169215,Yes,Wrong Item Shipped
+CA-2014-128335,Yes,Defective
+CA-2013-144785,Yes,Wrong Item Shipped
+CA-2013-123120,Yes,Not as Expected
+CA-2014-140949,Yes,Arrived Damaged
+CA-2014-109211,Yes,Not as Expected
+CA-2014-118367,Yes,Defective
+US-2014-102638,Yes,Not as Expected
+CA-2011-145212,Yes,Defective
+CA-2013-164511,Yes,Arrived Damaged
+CA-2014-133620,Yes,Wrong Item Shipped
+CA-2014-140844,Yes,Not as Expected
+CA-2011-143168,Yes,Wrong Item Shipped
+CA-2013-105473,Yes,Not as Expected
+CA-2013-110730,Yes,Not as Expected
+CA-2014-147452,Yes,Defective
+CA-2014-101805,Yes,Defective
+CA-2014-147956,Yes,Not as Expected
+CA-2013-110009,Yes,Not as Expected
+CA-2014-143665,Yes,Arrived Damaged
+CA-2011-129574,Yes,Not as Expected
+CA-2011-160262,Yes,Arrived Damaged
+CA-2011-152345,Yes,Arrived Damaged
+CA-2012-137603,Yes,Defective
+US-2014-116897,Yes,Wrong Item Shipped
+CA-2011-118976,Yes,Wrong Item Shipped
+CA-2012-156923,Yes,Defective
+CA-2012-132626,Yes,Defective
+CA-2012-146948,Yes,Arrived Damaged
+CA-2012-121608,Yes,Not as Expected
+CA-2012-156853,Yes,Wrong Item Shipped
+CA-2013-158435,Yes,Wrong Item Shipped
+CA-2013-103730,Yes,Arrived Damaged
+CA-2013-155516,Yes,Arrived Damaged
+CA-2013-145135,Yes,Wrong Item Shipped
+CA-2014-107713,Yes,Arrived Damaged
+CA-2014-140676,Yes,Defective
+CA-2014-117702,Yes,Wrong Item Shipped
+CA-2014-104136,Yes,Defective
+CA-2011-109302,Yes,Wrong Item Shipped
+CA-2011-113383,Yes,Not as Expected
+CA-2011-139423,Yes,Defective
+CA-2012-156335,Yes,Wrong Item Shipped
+CA-2013-111010,Yes,Defective
+CA-2013-102932,Yes,Defective
+CA-2014-122175,Yes,Wrong Item Shipped
+CA-2014-147725,Yes,Arrived Damaged
+US-2012-136749,Yes,Not as Expected
+CA-2013-139269,Yes,Wrong Item Shipped
+CA-2012-107678,Yes,Wrong Item Shipped
+US-2014-148831,Yes,Not as Expected
+CA-2014-101042,Yes,Defective
+CA-2014-134649,Yes,Defective
+CA-2011-127614,Yes,Not as Expected
+CA-2012-158148,Yes,Defective
+US-2013-121013,Yes,Not as Expected
+CA-2014-165687,Yes,Not as Expected
+CA-2014-128755,Yes,Defective
+CA-2012-115742,Yes,Arrived Damaged
+CA-2013-164637,Yes,Arrived Damaged
+CA-2013-161781,Yes,Defective
+CA-2014-130351,Yes,Arrived Damaged
+CA-2011-118339,Yes,Wrong Item Shipped
+CA-2012-136798,Yes,Defective
+CA-2011-130274,Yes,Wrong Item Shipped
+CA-2013-101448,Yes,Defective
+CA-2013-140774,Yes,Wrong Item Shipped
+CA-2013-136812,Yes,Arrived Damaged
+US-2013-157840,Yes,Defective
+CA-2014-116358,Yes,Not as Expected
+US-2011-107699,Yes,Wrong Item Shipped
+US-2011-157070,Yes,Not as Expected
+CA-2011-139283,Yes,Arrived Damaged
+US-2012-138121,Yes,Defective
+CA-2014-112900,Yes,Not as Expected
+CA-2014-114440,Yes,Arrived Damaged
+CA-2014-135860,Yes,Defective
+ES-2013-4494295,Yes,Arrived Damaged
+ES-2014-4613373,Yes,Defective
+ES-2014-4710352,Yes,Arrived Damaged
+ES-2013-2371724,Yes,Defective
+MX-2013-143931,Yes,Not as Expected
+MX-2014-122427,Yes,Arrived Damaged
+MX-2014-108469,Yes,Wrong Item Shipped
+ES-2014-5117456,Yes,Not as Expected
+ES-2014-2544561,Yes,Defective
+IN-2011-22662,Yes,Arrived Damaged
+PL-2011-1120,Yes,Not as Expected
+MX-2012-150133,Yes,Arrived Damaged
+MX-2012-161998,Yes,Arrived Damaged
+IN-2012-60287,Yes,Arrived Damaged
+ES-2012-2890249,Yes,Defective
+MX-2012-101539,Yes,Not as Expected
+MX-2012-161704,Yes,Wrong Item Shipped
+MX-2012-142174,Yes,Not as Expected
+NG-2013-1440,Yes,Not as Expected
+MX-2013-100573,Yes,Arrived Damaged
+MX-2013-163328,Yes,Not as Expected
+IN-2013-82260,Yes,Not as Expected
+ES-2014-2829389,Yes,Arrived Damaged
+IN-2014-65719,Yes,Wrong Item Shipped
+EG-2014-6160,Yes,Wrong Item Shipped
+IN-2014-73762,Yes,Arrived Damaged
+IN-2014-45188,Yes,Not as Expected
+IR-2014-7020,Yes,Not as Expected
+ES-2014-2139416,Yes,Not as Expected
+CA-2012-890,Yes,Wrong Item Shipped
+IN-2013-43151,Yes,Not as Expected
+RS-2011-3200,Yes,Arrived Damaged
+IR-2013-5070,Yes,Defective
+SA-2013-8370,Yes,Not as Expected
+RS-2014-5060,Yes,Not as Expected
+ZA-2013-7100,Yes,Wrong Item Shipped
+CG-2013-1870,Yes,Not as Expected
+TZ-2013-6160,Yes,Not as Expected
+MO-2013-7280,Yes,Wrong Item Shipped
+EG-2014-7000,Yes,Not as Expected
+ES-2013-4968432,Yes,Arrived Damaged
+CG-2013-2900,Yes,Wrong Item Shipped
+TO-2013-3630,Yes,Defective
+UP-2014-3700,Yes,Wrong Item Shipped
+IN-2012-30061,Yes,Wrong Item Shipped
+IN-2013-50410,Yes,Wrong Item Shipped
+ES-2013-5788188,Yes,Wrong Item Shipped
+ES-2014-3088059,Yes,Not as Expected
+ES-2014-5662666,Yes,Arrived Damaged
+IT-2014-5524294,Yes,Defective
+ES-2012-3868505,Yes,Not as Expected
+MX-2013-123456,Yes,Wrong Item Shipped
+MX-2011-115609,Yes,Wrong Item Shipped
+IN-2011-10286,Yes,Wrong Item Shipped
+MX-2012-126053,Yes,Arrived Damaged
+MX-2012-147375,Yes,Not as Expected
+MX-2012-147382,Yes,Wrong Item Shipped
+MX-2012-105522,Yes,Defective
+MX-2013-114013,Yes,Defective
+MX-2013-136749,Yes,Arrived Damaged
+ES-2014-2192694,Yes,Defective
+MX-2014-122882,Yes,Not as Expected
+ES-2014-1110806,Yes,Wrong Item Shipped
+MX-2013-139857,Yes,Not as Expected
+MX-2014-132822,Yes,Arrived Damaged
+ES-2011-2681822,Yes,Arrived Damaged
+ES-2013-5941455,Yes,Arrived Damaged
+ES-2013-4555618,Yes,Not as Expected
+ES-2013-2720927,Yes,Not as Expected
+MZ-2012-5900,Yes,Arrived Damaged
+ES-2013-5979288,Yes,Arrived Damaged
+IN-2013-22179,Yes,Wrong Item Shipped
+US-2011-165316,Yes,Not as Expected
+IT-2012-5703527,Yes,Defective
+IN-2013-64984,Yes,Wrong Item Shipped
+EZ-2014-4000,Yes,Not as Expected
+ES-2014-1686107,Yes,Arrived Damaged
+ES-2012-4844965,Yes,Not as Expected
+IN-2013-63913,Yes,Not as Expected
+MX-2013-123386,Yes,Defective
+ES-2013-2522918,Yes,Arrived Damaged
+ES-2014-5272129,Yes,Wrong Item Shipped
+ES-2014-1117642,Yes,Not as Expected
+MX-2014-109260,Yes,Not as Expected
+MX-2014-110324,Yes,Not as Expected
+IN-2012-24132,Yes,Arrived Damaged
+ES-2012-4306010,Yes,Not as Expected
+ES-2013-3042034,Yes,Arrived Damaged
+MO-2014-6930,Yes,Arrived Damaged
+ES-2013-5174378,Yes,Arrived Damaged
+ES-2014-5904288,Yes,Not as Expected
+MX-2013-140186,Yes,Not as Expected
+MX-2013-117002,Yes,Arrived Damaged
+ES-2013-4847870,Yes,Wrong Item Shipped
+ES-2014-5791774,Yes,Arrived Damaged
+IN-2014-77507,Yes,Defective
+ES-2014-3995946,Yes,Defective
+TO-2014-9950,Yes,Arrived Damaged
+IT-2012-2429268,Yes,Not as Expected
+ES-2012-5543011,Yes,Arrived Damaged
+CA-2013-3830,Yes,Not as Expected
+IN-2013-48807,Yes,Arrived Damaged
+ES-2014-4341309,Yes,Wrong Item Shipped
+EN-2011-70,Yes,Not as Expected
+AU-2012-5610,Yes,Arrived Damaged
+SA-2013-860,Yes,Not as Expected
+UP-2014-7050,Yes,Wrong Item Shipped
+RO-2014-2500,Yes,Arrived Damaged
+IR-2014-9810,Yes,Defective
+CG-2011-8680,Yes,Defective
+SF-2013-9870,Yes,Not as Expected
+ZA-2014-4820,Yes,Defective
+MO-2012-6660,Yes,Arrived Damaged
+MO-2014-2000,Yes,Not as Expected
+ES-2011-4862124,Yes,Not as Expected
+PL-2012-4860,Yes,Defective
+IN-2012-66090,Yes,Wrong Item Shipped
+ES-2012-1017653,Yes,Not as Expected
+MX-2012-117800,Yes,Not as Expected
+ES-2012-4282810,Yes,Wrong Item Shipped
+IN-2014-29774,Yes,Wrong Item Shipped
+MX-2014-143553,Yes,Arrived Damaged
+RS-2011-2280,Yes,Not as Expected
+ES-2011-3020748,Yes,Arrived Damaged
+ES-2011-1589842,Yes,Not as Expected
+ES-2012-5252305,Yes,Wrong Item Shipped
+ES-2013-1812049,Yes,Wrong Item Shipped
+MX-2013-151057,Yes,Arrived Damaged
+IN-2013-32063,Yes,Wrong Item Shipped
+IN-2013-36193,Yes,Arrived Damaged
+TO-2014-5740,Yes,Defective
+MX-2014-162957,Yes,Not as Expected
+AG-2014-2230,Yes,Arrived Damaged
+IN-2011-64046,Yes,Not as Expected
+CA-2014-560,Yes,Wrong Item Shipped
+MX-2014-162180,Yes,Not as Expected
+KE-2013-2920,Yes,Not as Expected
+ES-2014-4357731,Yes,Defective
+ZA-2014-5970,Yes,Wrong Item Shipped
+PL-2012-590,Yes,Wrong Item Shipped
+MX-2012-159646,Yes,Wrong Item Shipped
+MX-2013-158106,Yes,Defective
+UP-2013-4180,Yes,Defective
+IN-2013-22956,Yes,Not as Expected
+IN-2014-16068,Yes,Not as Expected
+SF-2011-1480,Yes,Not as Expected
+ES-2011-5699335,Yes,Not as Expected
+ES-2011-1527372,Yes,Not as Expected
+MX-2012-150910,Yes,Not as Expected
+ES-2012-3208808,Yes,Not as Expected
+ES-2012-3083992,Yes,Wrong Item Shipped
+ES-2013-4686025,Yes,Defective
+MX-2013-150091,Yes,Arrived Damaged
+TZ-2013-7780,Yes,Defective
+ES-2013-2356402,Yes,Defective
+MX-2011-155159,Yes,Wrong Item Shipped
+IR-2011-3940,Yes,Arrived Damaged
+ES-2013-4486106,Yes,Wrong Item Shipped
+MX-2013-162096,Yes,Not as Expected
+ES-2013-2807164,Yes,Wrong Item Shipped
+ES-2013-4468149,Yes,Arrived Damaged
+IN-2014-50718,Yes,Arrived Damaged
+ES-2014-3704704,Yes,Defective
+IN-2011-43718,Yes,Not as Expected
+MX-2011-109603,Yes,Defective
+ES-2012-4635011,Yes,Wrong Item Shipped
+SG-2012-1600,Yes,Wrong Item Shipped
+EG-2012-3950,Yes,Not as Expected
+UP-2014-100,Yes,Not as Expected
+ES-2012-2994105,Yes,Arrived Damaged
+MX-2014-162306,Yes,Wrong Item Shipped
+ES-2014-2785398,Yes,Arrived Damaged
+IR-2014-5040,Yes,Arrived Damaged
+IN-2014-61393,Yes,Defective
+IN-2011-67049,Yes,Wrong Item Shipped
+ES-2012-5507408,Yes,Arrived Damaged
+KE-2012-5420,Yes,Not as Expected
+IN-2013-41079,Yes,Wrong Item Shipped
+MX-2011-162936,Yes,Not as Expected
+IN-2011-18385,Yes,Not as Expected
+MX-2012-166114,Yes,Wrong Item Shipped
+IT-2012-2203661,Yes,Wrong Item Shipped
+MX-2012-118248,Yes,Arrived Damaged
+MX-2013-161585,Yes,Wrong Item Shipped
+BO-2013-3500,Yes,Not as Expected
+ES-2014-5821132,Yes,Defective
+MX-2014-144806,Yes,Wrong Item Shipped
+ES-2012-4829315,Yes,Arrived Damaged
+MX-2012-110730,Yes,Wrong Item Shipped
+MX-2014-118927,Yes,Arrived Damaged
+MX-2014-114944,Yes,Not as Expected
+SF-2011-9030,Yes,Defective
+IN-2012-55625,Yes,Wrong Item Shipped
+MX-2011-140116,Yes,Defective
+MX-2012-135076,Yes,Wrong Item Shipped
+KG-2012-1840,Yes,Arrived Damaged
+CG-2013-20,Yes,Arrived Damaged
+IN-2013-33974,Yes,Arrived Damaged
+IN-2014-16607,Yes,Defective
+IT-2014-5992832,Yes,Arrived Damaged
+ES-2014-1963124,Yes,Wrong Item Shipped
+ES-2014-5952770,Yes,Arrived Damaged
+MX-2011-105564,Yes,Wrong Item Shipped
+IN-2011-40232,Yes,Defective
+ES-2013-2989764,Yes,Wrong Item Shipped
+ES-2014-2083963,Yes,Wrong Item Shipped
+MX-2012-167990,Yes,Wrong Item Shipped
+ES-2013-5958799,Yes,Wrong Item Shipped
+ES-2013-1954205,Yes,Defective
+MX-2014-107902,Yes,Arrived Damaged
+ES-2014-3638865,Yes,Defective
+ES-2013-1787717,Yes,Not as Expected
+MX-2013-143917,Yes,Arrived Damaged
+SU-2014-6240,Yes,Wrong Item Shipped
+BO-2014-9490,Yes,Arrived Damaged
+SA-2014-1290,Yes,Not as Expected
+CG-2012-6000,Yes,Defective
+AU-2012-9900,Yes,Defective
+IR-2013-6270,Yes,Arrived Damaged
+IR-2013-5890,Yes,Wrong Item Shipped
+UP-2013-8220,Yes,Not as Expected
+IR-2013-1660,Yes,Wrong Item Shipped
+MX-2014-143476,Yes,Defective
+IN-2011-66734,Yes,Defective
+RS-2012-6140,Yes,Wrong Item Shipped
+IN-2014-13079,Yes,Defective
+MX-2011-123624,Yes,Wrong Item Shipped
+ML-2013-1480,Yes,Arrived Damaged
+MO-2014-190,Yes,Defective
+RO-2014-1390,Yes,Wrong Item Shipped
+ES-2011-1418466,Yes,Not as Expected
+ES-2011-5729514,Yes,Arrived Damaged
+ES-2012-5522696,Yes,Not as Expected
+ES-2014-5762425,Yes,Wrong Item Shipped
+ES-2014-4029308,Yes,Defective
+ES-2012-2523254,Yes,Defective
+ES-2013-4477863,Yes,Wrong Item Shipped
+ES-2013-3967063,Yes,Defective
+ES-2014-3211873,Yes,Wrong Item Shipped
+IN-2014-72838,Yes,Arrived Damaged
+IN-2013-79635,Yes,Wrong Item Shipped
+ES-2014-3812608,Yes,Defective
+MX-2012-163937,Yes,Wrong Item Shipped
+ES-2013-3496941,Yes,Wrong Item Shipped
+IN-2013-29018,Yes,Not as Expected
+ES-2014-2387068,Yes,Wrong Item Shipped
+ES-2014-1572368,Yes,Arrived Damaged
+IR-2011-1060,Yes,Defective
+ES-2011-5498995,Yes,Wrong Item Shipped
+MO-2013-2400,Yes,Wrong Item Shipped
+IZ-2014-3260,Yes,Defective
+ES-2012-5451215,Yes,Not as Expected
+EG-2012-2470,Yes,Arrived Damaged
+IN-2011-22368,Yes,Arrived Damaged
+PL-2013-5500,Yes,Not as Expected
+MX-2014-132927,Yes,Defective
+PL-2014-4620,Yes,Wrong Item Shipped
+PL-2014-5810,Yes,Not as Expected
+GH-2012-4620,Yes,Wrong Item Shipped
+CG-2013-3660,Yes,Arrived Damaged
+MX-2011-131639,Yes,Wrong Item Shipped
+IN-2012-19995,Yes,Wrong Item Shipped
+MX-2013-131793,Yes,Not as Expected
+ES-2013-1692384,Yes,Arrived Damaged
+BO-2013-1400,Yes,Not as Expected
+ES-2014-1577544,Yes,Not as Expected
+MX-2011-100384,Yes,Not as Expected
+IT-2011-5015979,Yes,Defective
+IN-2013-50368,Yes,Arrived Damaged
+IN-2013-26617,Yes,Wrong Item Shipped
+ES-2011-4335650,Yes,Arrived Damaged
+ES-2013-1534120,Yes,Not as Expected
+MX-2011-168914,Yes,Not as Expected
+MX-2014-105641,Yes,Not as Expected
+ES-2014-3563223,Yes,Arrived Damaged
+ES-2014-3566095,Yes,Wrong Item Shipped
+ES-2011-1708709,Yes,Not as Expected
+MX-2012-125808,Yes,Not as Expected
+ES-2013-2934598,Yes,Defective
+IN-2013-31055,Yes,Arrived Damaged
+MO-2014-3260,Yes,Arrived Damaged
+IN-2014-46616,Yes,Defective
+BO-2014-6700,Yes,Defective
+MX-2014-165421,Yes,Arrived Damaged
+MX-2014-133382,Yes,Arrived Damaged
+ES-2011-5497239,Yes,Arrived Damaged
+MX-2014-119340,Yes,Defective
+MX-2011-155726,Yes,Wrong Item Shipped
+MX-2011-134250,Yes,Not as Expected
+GG-2012-4850,Yes,Defective
+MX-2012-122756,Yes,Not as Expected
+MX-2013-108063,Yes,Wrong Item Shipped
+MX-2013-152191,Yes,Not as Expected
+RS-2013-2360,Yes,Arrived Damaged
+UP-2013-9310,Yes,Not as Expected
+IN-2014-19561,Yes,Wrong Item Shipped
+ES-2014-3986842,Yes,Defective
+MX-2012-100958,Yes,Arrived Damaged
+IT-2012-5895898,Yes,Not as Expected
+MX-2013-112543,Yes,Defective
+ES-2013-4900191,Yes,Arrived Damaged
+ES-2013-3877962,Yes,Not as Expected
+ES-2011-4632225,Yes,Arrived Damaged
+RS-2011-1260,Yes,Arrived Damaged
+SF-2012-5280,Yes,Defective
+IR-2013-2430,Yes,Arrived Damaged
+ES-2014-3777226,Yes,Arrived Damaged
+RS-2014-1960,Yes,Wrong Item Shipped
+ES-2011-3634665,Yes,Defective
+MX-2011-165673,Yes,Not as Expected
+ES-2012-2495938,Yes,Arrived Damaged
+ES-2014-1681793,Yes,Wrong Item Shipped
+IN-2014-77997,Yes,Not as Expected
+MX-2011-157616,Yes,Not as Expected
+EG-2012-5130,Yes,Arrived Damaged
+BU-2013-7380,Yes,Arrived Damaged
+ES-2013-5431940,Yes,Arrived Damaged
+MX-2013-121930,Yes,Not as Expected
+MX-2013-140144,Yes,Not as Expected
+PL-2014-150,Yes,Not as Expected
+SF-2014-3260,Yes,Arrived Damaged
+ES-2014-2637929,Yes,Arrived Damaged
+ES-2011-4744800,Yes,Defective
+IN-2011-71494,Yes,Wrong Item Shipped
+MX-2012-101616,Yes,Arrived Damaged
+ES-2012-4272278,Yes,Defective
+MX-2013-157994,Yes,Defective
+MD-2014-9120,Yes,Wrong Item Shipped
+IN-2011-72201,Yes,Not as Expected
+ES-2013-4325997,Yes,Arrived Damaged
+MX-2013-130883,Yes,Defective
+IR-2014-4150,Yes,Not as Expected
+MX-2012-163720,Yes,Not as Expected
+CG-2012-6440,Yes,Arrived Damaged
+MX-2012-133823,Yes,Wrong Item Shipped
+IT-2012-2737300,Yes,Wrong Item Shipped
+CG-2012-8980,Yes,Not as Expected
+IT-2013-5753206,Yes,Wrong Item Shipped
+IN-2013-52454,Yes,Not as Expected
+IN-2014-32490,Yes,Wrong Item Shipped
+IN-2014-14374,Yes,Defective
+CG-2013-9730,Yes,Not as Expected
+ES-2014-5951204,Yes,Defective
+ES-2011-5287434,Yes,Wrong Item Shipped
+ES-2011-5083754,Yes,Arrived Damaged
+UP-2011-9080,Yes,Arrived Damaged
+IZ-2012-3500,Yes,Arrived Damaged
+IN-2012-67882,Yes,Wrong Item Shipped
+SF-2013-9550,Yes,Defective
+EG-2013-3870,Yes,Defective
+ES-2014-2739856,Yes,Not as Expected
+ES-2011-3369614,Yes,Not as Expected
+MX-2012-103954,Yes,Wrong Item Shipped
+EG-2012-6420,Yes,Wrong Item Shipped
+MX-2012-155229,Yes,Wrong Item Shipped
+LY-2014-8170,Yes,Defective
+ES-2011-2367994,Yes,Defective
+ES-2012-2693104,Yes,Not as Expected
+IN-2011-30341,Yes,Not as Expected
+IN-2013-86488,Yes,Arrived Damaged
+TS-2014-1680,Yes,Wrong Item Shipped
+MX-2012-163363,Yes,Defective
+ES-2012-5402571,Yes,Wrong Item Shipped
+ES-2014-4598380,Yes,Not as Expected
+IN-2011-73055,Yes,Not as Expected
+MX-2012-122952,Yes,Defective
+MX-2013-166471,Yes,Defective
+MO-2013-570,Yes,Wrong Item Shipped
+ES-2014-2670477,Yes,Arrived Damaged
+IN-2014-55513,Yes,Defective
+IN-2011-10552,Yes,Not as Expected
+MX-2011-117926,Yes,Arrived Damaged
+MX-2012-151176,Yes,Not as Expected
+MX-2012-127404,Yes,Not as Expected
+MX-2013-160654,Yes,Defective
+IN-2013-27492,Yes,Defective
+ES-2013-2481532,Yes,Not as Expected
+MX-2013-159114,Yes,Defective
+ES-2014-4821212,Yes,Wrong Item Shipped
+ES-2014-5009576,Yes,Arrived Damaged
+SA-2011-1690,Yes,Arrived Damaged
+ES-2013-2551660,Yes,Not as Expected
+ES-2014-5000569,Yes,Defective
+IN-2012-42003,Yes,Defective
+MX-2012-120663,Yes,Not as Expected
+IN-2012-74770,Yes,Arrived Damaged
+MX-2013-104178,Yes,Arrived Damaged
+ES-2013-1433183,Yes,Not as Expected
+CG-2013-490,Yes,Arrived Damaged
+MX-2014-139129,Yes,Defective
+MO-2014-4970,Yes,Arrived Damaged
+EG-2014-5280,Yes,Defective
+BK-2014-2770,Yes,Defective
+ES-2012-1059651,Yes,Defective
+IN-2013-20107,Yes,Arrived Damaged
+ES-2013-2824939,Yes,Defective
+MX-2013-146318,Yes,Defective
+MX-2014-134901,Yes,Arrived Damaged
+MX-2014-152793,Yes,Not as Expected
+MX-2013-159191,Yes,Defective
+SF-2013-3300,Yes,Defective
+CM-2014-2920,Yes,Defective
+HU-2011-630,Yes,Defective
+IZ-2012-6570,Yes,Wrong Item Shipped
+UP-2012-330,Yes,Wrong Item Shipped
+US-2012-134054,Yes,Not as Expected
+IN-2012-85389,Yes,Defective
+CM-2012-6570,Yes,Defective
+IN-2013-12106,Yes,Defective
+IN-2013-82477,Yes,Wrong Item Shipped
+ES-2013-4817383,Yes,Arrived Damaged
+MX-2014-155173,Yes,Arrived Damaged
+MX-2014-133802,Yes,Arrived Damaged
+IZ-2014-750,Yes,Not as Expected
+ES-2014-2810919,Yes,Wrong Item Shipped
+ES-2014-4189917,Yes,Wrong Item Shipped
+MX-2013-160892,Yes,Wrong Item Shipped
+IN-2014-49675,Yes,Defective
+MX-2014-133298,Yes,Defective
+AU-2014-3670,Yes,Defective
+ES-2011-1273737,Yes,Wrong Item Shipped
+ES-2014-2441398,Yes,Not as Expected
+ES-2014-2298874,Yes,Wrong Item Shipped
+ES-2011-3517120,Yes,Defective
+ES-2012-4293573,Yes,Wrong Item Shipped
+CA-2012-9610,Yes,Defective
+IT-2012-5447759,Yes,Arrived Damaged
+IR-2013-9780,Yes,Wrong Item Shipped
+EG-2013-7640,Yes,Defective
+MX-2013-156048,Yes,Not as Expected
+MO-2014-5060,Yes,Not as Expected
+MX-2014-169824,Yes,Defective
+CG-2011-7550,Yes,Not as Expected
+IN-2011-75526,Yes,Arrived Damaged
+ES-2012-1704393,Yes,Arrived Damaged
+ES-2012-1743140,Yes,Not as Expected
+MX-2012-162222,Yes,Wrong Item Shipped
+MX-2012-148040,Yes,Arrived Damaged
+ES-2014-4158324,Yes,Not as Expected
+IN-2014-86194,Yes,Not as Expected
+IN-2011-12043,Yes,Arrived Damaged
+IR-2012-9530,Yes,Defective
+ES-2012-1517831,Yes,Not as Expected
+MX-2012-163272,Yes,Not as Expected
+ES-2012-3163464,Yes,Not as Expected
+ES-2012-3676966,Yes,Not as Expected
+ES-2012-2700213,Yes,Not as Expected
+EG-2013-8790,Yes,Arrived Damaged
+ES-2014-1012941,Yes,Arrived Damaged
+IN-2014-18791,Yes,Defective
+ES-2014-1779830,Yes,Arrived Damaged
+ES-2014-1178688,Yes,Not as Expected
+IN-2011-36620,Yes,Defective
+MX-2012-153500,Yes,Not as Expected
+ES-2013-4467445,Yes,Defective
+ES-2013-2161351,Yes,Wrong Item Shipped
+ES-2013-4396697,Yes,Wrong Item Shipped
+ID-2013-65810,Yes,Arrived Damaged
+ES-2014-1209005,Yes,Defective
+IN-2014-30264,Yes,Not as Expected
+MX-2014-148285,Yes,Arrived Damaged
+IR-2011-5080,Yes,Defective
+MX-2013-145079,Yes,Arrived Damaged
+MX-2013-137050,Yes,Defective
+MX-2013-135027,Yes,Not as Expected
+IT-2013-5152159,Yes,Defective
+IR-2014-340,Yes,Not as Expected
+IZ-2014-4530,Yes,Not as Expected
+MX-2012-159674,Yes,Defective
+ES-2013-3051016,Yes,Defective
+UP-2013-8460,Yes,Defective
+IZ-2014-2130,Yes,Defective
+CG-2012-6410,Yes,Arrived Damaged
+IN-2012-18273,Yes,Not as Expected
+UP-2013-4830,Yes,Defective
+IR-2014-820,Yes,Wrong Item Shipped
+GH-2012-1190,Yes,Arrived Damaged
+MX-2012-101560,Yes,Wrong Item Shipped
+MX-2012-158750,Yes,Defective
+MA-2013-5150,Yes,Not as Expected
+PL-2014-6410,Yes,Arrived Damaged
+SF-2014-540,Yes,Wrong Item Shipped
+ES-2013-2105318,Yes,Defective
+ES-2014-4799283,Yes,Wrong Item Shipped
+ES-2014-3794754,Yes,Not as Expected
+ES-2011-1886093,Yes,Defective
+ES-2012-3831961,Yes,Wrong Item Shipped
+ES-2012-3534614,Yes,Arrived Damaged
+ES-2011-5649807,Yes,Arrived Damaged
+IT-2012-5303768,Yes,Wrong Item Shipped
+MX-2012-165470,Yes,Defective
+MX-2013-100230,Yes,Not as Expected
+IN-2013-49437,Yes,Defective
+IN-2013-45440,Yes,Defective
+IT-2014-2971226,Yes,Not as Expected
+MX-2014-110296,Yes,Arrived Damaged
+UZ-2014-7050,Yes,Defective
+IN-2012-31762,Yes,Arrived Damaged
+ES-2013-5246151,Yes,Not as Expected
+ES-2014-3381506,Yes,Wrong Item Shipped
+ES-2011-3524149,Yes,Arrived Damaged
+ES-2011-3717351,Yes,Defective
+MX-2012-147886,Yes,Not as Expected
+MX-2012-147977,Yes,Arrived Damaged
+ES-2012-5411795,Yes,Defective
+ES-2012-1881846,Yes,Wrong Item Shipped
+SF-2013-3170,Yes,Arrived Damaged
+IN-2013-12092,Yes,Wrong Item Shipped
+IZ-2013-4480,Yes,Arrived Damaged
+IN-2013-37852,Yes,Defective
+MX-2013-110331,Yes,Arrived Damaged
+MX-2014-165841,Yes,Not as Expected
+MX-2014-106607,Yes,Defective
+UP-2014-3230,Yes,Defective
+MX-2014-166541,Yes,Arrived Damaged
+IN-2014-69485,Yes,Arrived Damaged
+IN-2014-24622,Yes,Wrong Item Shipped
+CM-2011-6580,Yes,Defective
+ES-2012-4430401,Yes,Arrived Damaged
+MX-2012-148131,Yes,Defective
+MX-2014-145828,Yes,Defective
+IN-2011-55919,Yes,Wrong Item Shipped
+IN-2013-40134,Yes,Wrong Item Shipped
+IN-2014-80615,Yes,Wrong Item Shipped
+IN-2014-48310,Yes,Defective
+ES-2011-4852530,Yes,Defective
+ES-2012-3947984,Yes,Not as Expected
+ES-2012-4717022,Yes,Not as Expected
+ES-2013-3161182,Yes,Defective
+MX-2014-137575,Yes,Arrived Damaged
+ES-2011-1539879,Yes,Defective
+ES-2012-4610139,Yes,Wrong Item Shipped
+ES-2012-1880476,Yes,Arrived Damaged
+IN-2013-82519,Yes,Arrived Damaged
+ES-2013-3322723,Yes,Defective
+SF-2013-490,Yes,Not as Expected
+KE-2013-9550,Yes,Not as Expected
+BO-2014-1510,Yes,Not as Expected
+MX-2011-115644,Yes,Not as Expected
+MX-2011-135251,Yes,Arrived Damaged
+MX-2011-100125,Yes,Arrived Damaged
+MX-2012-115070,Yes,Not as Expected
+MX-2012-119130,Yes,Wrong Item Shipped
+MX-2013-112718,Yes,Defective
+MX-2014-164308,Yes,Not as Expected
+MX-2014-132255,Yes,Defective
+MX-2014-153556,Yes,Not as Expected
+MX-2012-135433,Yes,Wrong Item Shipped
+US-2012-115966,Yes,Not as Expected
+MX-2014-106978,Yes,Defective
+IR-2011-7880,Yes,Not as Expected
+ES-2012-4346320,Yes,Arrived Damaged
+ES-2012-5064111,Yes,Not as Expected
+ES-2012-1354648,Yes,Arrived Damaged
+EG-2013-4560,Yes,Arrived Damaged
+IN-2013-21192,Yes,Not as Expected
+ES-2014-4624372,Yes,Wrong Item Shipped
+IN-2014-10377,Yes,Arrived Damaged
+IN-2014-36627,Yes,Not as Expected
+SF-2014-5380,Yes,Not as Expected
+ES-2014-4531898,Yes,Arrived Damaged
+IN-2014-83233,Yes,Arrived Damaged
+ES-2014-1992981,Yes,Arrived Damaged
+IN-2012-27975,Yes,Arrived Damaged
+KE-2012-4100,Yes,Arrived Damaged
+UP-2012-5910,Yes,Arrived Damaged
+IN-2013-19337,Yes,Arrived Damaged
+HU-2013-6070,Yes,Arrived Damaged
+IN-2013-78970,Yes,Not as Expected
+IN-2014-12414,Yes,Defective
+ES-2012-4711076,Yes,Not as Expected
+MX-2011-144463,Yes,Arrived Damaged
+MX-2012-144862,Yes,Not as Expected
+MX-2014-159387,Yes,Defective
+MO-2014-3850,Yes,Wrong Item Shipped
+MX-2014-128727,Yes,Arrived Damaged
+IN-2011-50725,Yes,Arrived Damaged
+IS-2013-220,Yes,Arrived Damaged
+DJ-2013-9080,Yes,Wrong Item Shipped
+CA-2014-3040,Yes,Arrived Damaged
+MX-2011-166961,Yes,Not as Expected
+MX-2012-128972,Yes,Defective
+MX-2014-152086,Yes,Defective
+AG-2011-2040,Yes,Not as Expected
+MX-2011-131688,Yes,Defective
+SG-2012-4870,Yes,Defective
+MO-2014-4550,Yes,Defective
+CG-2013-1980,Yes,Wrong Item Shipped
+CG-2013-4980,Yes,Arrived Damaged
+HR-2014-3840,Yes,Not as Expected
+JO-2014-8690,Yes,Not as Expected
+SO-2011-3370,Yes,Wrong Item Shipped
+IZ-2011-9230,Yes,Wrong Item Shipped
+TZ-2013-4050,Yes,Wrong Item Shipped
+MX-2014-132703,Yes,Not as Expected
+IN-2014-34163,Yes,Not as Expected
+IN-2013-13891,Yes,Not as Expected
+IR-2013-9580,Yes,Arrived Damaged
+SG-2014-5940,Yes,Wrong Item Shipped
+ES-2013-4142253,Yes,Arrived Damaged
+ES-2013-2239615,Yes,Not as Expected
+ES-2013-1068972,Yes,Arrived Damaged
+ES-2013-4583195,Yes,Wrong Item Shipped
+ES-2013-4034655,Yes,Arrived Damaged
+ES-2013-1229178,Yes,Defective
+ES-2014-5931653,Yes,Wrong Item Shipped
+ES-2014-5885922,Yes,Defective
+MX-2014-107839,Yes,Defective
+ES-2012-4943358,Yes,Arrived Damaged
+CA-2012-7440,Yes,Arrived Damaged
+MX-2014-142566,Yes,Defective
+IN-2013-12407,Yes,Defective
+MX-2013-101658,Yes,Wrong Item Shipped
+ES-2011-5269399,Yes,Wrong Item Shipped
+MX-2012-167927,Yes,Not as Expected
+CA-2013-4830,Yes,Wrong Item Shipped
+RS-2014-3840,Yes,Wrong Item Shipped
+CG-2011-6160,Yes,Not as Expected
+ES-2013-5917617,Yes,Wrong Item Shipped
+MO-2013-1100,Yes,Not as Expected
+SA-2014-4280,Yes,Not as Expected
+MX-2013-113621,Yes,Arrived Damaged
+ES-2011-5118812,Yes,Wrong Item Shipped
+ES-2014-4576851,Yes,Defective
+MX-2012-151015,Yes,Wrong Item Shipped
+MX-2014-132444,Yes,Arrived Damaged
+ES-2014-1474425,Yes,Arrived Damaged
+ES-2012-3761208,Yes,Defective
+ES-2013-5579249,Yes,Arrived Damaged
+MX-2013-117415,Yes,Defective
+ES-2014-3221372,Yes,Arrived Damaged
+ES-2012-2396725,Yes,Arrived Damaged
+SF-2012-6470,Yes,Defective
+IZ-2014-770,Yes,Not as Expected
+ES-2014-5949760,Yes,Wrong Item Shipped
+MX-2011-142013,Yes,Defective
+AG-2013-5250,Yes,Defective
+BO-2014-5570,Yes,Wrong Item Shipped
+IN-2013-59020,Yes,Wrong Item Shipped
+MX-2014-118934,Yes,Defective
+MX-2014-166233,Yes,Defective
+SA-2013-330,Yes,Not as Expected
+IN-2012-27583,Yes,Defective
+IN-2012-15361,Yes,Wrong Item Shipped
+UP-2011-2680,Yes,Not as Expected
+IN-2013-42234,Yes,Wrong Item Shipped
+ES-2014-5298444,Yes,Arrived Damaged
+ES-2014-1871238,Yes,Arrived Damaged
+ES-2011-4314290,Yes,Defective
+IN-2014-29767,Yes,Not as Expected
+AL-2013-7420,Yes,Arrived Damaged
+IR-2014-220,Yes,Not as Expected
+MX-2011-165337,Yes,Defective
+ES-2012-3290357,Yes,Arrived Damaged
+MX-2014-125878,Yes,Defective
+MX-2012-151855,Yes,Wrong Item Shipped
+SF-2013-1720,Yes,Defective
+PL-2013-8240,Yes,Arrived Damaged
+MX-2011-144680,Yes,Wrong Item Shipped
+ES-2012-3755574,Yes,Defective
+ES-2011-5201850,Yes,Arrived Damaged
+IR-2013-9810,Yes,Wrong Item Shipped
+HR-2012-820,Yes,Wrong Item Shipped
+MX-2011-152366,Yes,Arrived Damaged
+MX-2011-158932,Yes,Wrong Item Shipped
+MX-2012-144568,Yes,Defective
+MX-2013-112529,Yes,Not as Expected
+MX-2014-141922,Yes,Wrong Item Shipped
+IN-2011-31895,Yes,Defective
+IN-2013-73748,Yes,Not as Expected
+IN-2014-31902,Yes,Defective
+IN-2013-78683,Yes,Defective
+IN-2012-86880,Yes,Arrived Damaged
+IN-2013-42080,Yes,Wrong Item Shipped
+SG-2013-7250,Yes,Arrived Damaged
+MX-2011-125171,Yes,Arrived Damaged
+MX-2012-126851,Yes,Wrong Item Shipped
+ES-2011-4877774,Yes,Defective
+ES-2012-4632904,Yes,Not as Expected
+MX-2011-140641,Yes,Wrong Item Shipped
+ES-2013-1590572,Yes,Arrived Damaged
+MX-2011-121251,Yes,Defective
+MX-2012-132745,Yes,Defective
+MX-2014-167031,Yes,Not as Expected
+IN-2011-51271,Yes,Wrong Item Shipped
+IT-2012-2619984,Yes,Not as Expected
+IN-2012-57123,Yes,Arrived Damaged
+IN-2014-42213,Yes,Defective
+EG-2012-7790,Yes,Wrong Item Shipped
+IN-2014-50977,Yes,Not as Expected
+ID-2011-71648,Yes,Not as Expected
+ES-2013-2339975,Yes,Wrong Item Shipped
+IN-2013-42731,Yes,Not as Expected
+RO-2013-8050,Yes,Not as Expected
+IN-2013-34401,Yes,Arrived Damaged
+SF-2012-2790,Yes,Wrong Item Shipped
+IN-2013-12771,Yes,Not as Expected
+IN-2014-17230,Yes,Wrong Item Shipped
+MX-2014-137323,Yes,Arrived Damaged
+MX-2012-100412,Yes,Arrived Damaged
+IN-2011-29872,Yes,Wrong Item Shipped
+MX-2011-127145,Yes,Not as Expected
+ES-2011-1088527,Yes,Not as Expected
+MX-2011-112319,Yes,Wrong Item Shipped
+ES-2011-3848020,Yes,Wrong Item Shipped
+IT-2014-1525267,Yes,Arrived Damaged
+IN-2014-67434,Yes,Defective
+IT-2013-3224690,Yes,Defective
+IN-2011-27681,Yes,Not as Expected
+IN-2012-66685,Yes,Arrived Damaged
+SF-2012-3660,Yes,Not as Expected
+UP-2013-9380,Yes,Not as Expected
+MX-2014-123204,Yes,Wrong Item Shipped
+ES-2012-1951025,Yes,Arrived Damaged
+MX-2013-165064,Yes,Defective
+MX-2013-113824,Yes,Defective
+IN-2013-37628,Yes,Wrong Item Shipped
+UP-2012-9830,Yes,Defective
+MX-2012-129028,Yes,Arrived Damaged
+MX-2011-132479,Yes,Not as Expected
+ES-2014-4951531,Yes,Not as Expected
+IN-2011-51215,Yes,Not as Expected
+CG-2012-1060,Yes,Defective
+AG-2013-6810,Yes,Not as Expected
+PL-2014-8730,Yes,Not as Expected
+SF-2013-9730,Yes,Not as Expected
+SF-2014-490,Yes,Defective
+ES-2011-3215372,Yes,Defective
+MX-2011-143812,Yes,Arrived Damaged
+ES-2011-1084683,Yes,Not as Expected
+ES-2012-1349761,Yes,Not as Expected
+ES-2014-4538840,Yes,Wrong Item Shipped
+ES-2014-4418227,Yes,Defective
+IR-2011-9150,Yes,Wrong Item Shipped
+MX-2011-143280,Yes,Arrived Damaged
+IN-2011-81301,Yes,Arrived Damaged
+IN-2012-86502,Yes,Arrived Damaged
+MX-2012-156216,Yes,Defective
+ES-2013-5305308,Yes,Arrived Damaged
+UP-2013-5480,Yes,Arrived Damaged
+MX-2013-163811,Yes,Arrived Damaged
+TO-2014-1650,Yes,Arrived Damaged
+MX-2014-154340,Yes,Not as Expected
+ES-2014-3645637,Yes,Not as Expected
+MX-2014-128405,Yes,Wrong Item Shipped
+MX-2014-105907,Yes,Arrived Damaged
+CG-2011-4610,Yes,Defective
+IN-2012-82841,Yes,Arrived Damaged
+ES-2012-3699074,Yes,Defective
+CG-2011-2000,Yes,Not as Expected
+MX-2014-101441,Yes,Wrong Item Shipped
+MX-2013-105095,Yes,Wrong Item Shipped
+MX-2014-137869,Yes,Wrong Item Shipped
+IN-2011-10265,Yes,Wrong Item Shipped
+IN-2014-57984,Yes,Not as Expected
+ES-2014-5444640,Yes,Not as Expected
+MX-2013-155474,Yes,Not as Expected
+ES-2014-3582654,Yes,Arrived Damaged
+ES-2011-5630309,Yes,Defective
+MX-2012-134607,Yes,Not as Expected
+MX-2012-164791,Yes,Arrived Damaged
+MX-2012-114216,Yes,Arrived Damaged
+ES-2011-4093113,Yes,Wrong Item Shipped
+CA-2012-6700,Yes,Arrived Damaged
+IZ-2012-7110,Yes,Wrong Item Shipped
+IZ-2011-4060,Yes,Wrong Item Shipped
+MX-2012-149832,Yes,Arrived Damaged
+UP-2014-610,Yes,Wrong Item Shipped
+ES-2013-3547323,Yes,Wrong Item Shipped
+MX-2014-147655,Yes,Arrived Damaged
+CA-2011-125759,Yes,Defective
+CA-2011-126760,Yes,Defective
+CA-2011-143385,Yes,Not as Expected
+CA-2014-143329,Yes,Not as Expected
+US-2012-151407,Yes,Not as Expected
+CA-2013-153157,Yes,Arrived Damaged
+CA-2014-104388,Yes,Defective
+CA-2013-133550,Yes,Defective
+CA-2014-145653,Yes,Arrived Damaged
+CA-2013-163174,Yes,Defective
+US-2013-116400,Yes,Wrong Item Shipped
+CA-2014-122994,Yes,Not as Expected
+US-2014-136189,Yes,Wrong Item Shipped
+CA-2012-148964,Yes,Defective
+CA-2014-150420,Yes,Arrived Damaged
+CA-2011-135993,Yes,Wrong Item Shipped
+CA-2011-111192,Yes,Not as Expected
+CA-2011-134726,Yes,Wrong Item Shipped
+CA-2014-142391,Yes,Arrived Damaged
+CA-2012-103933,Yes,Arrived Damaged
+US-2013-127425,Yes,Wrong Item Shipped
+CA-2012-144253,Yes,Wrong Item Shipped
+CA-2012-145814,Yes,Not as Expected
+CA-2014-102771,Yes,Defective
+CA-2011-144071,Yes,Defective
+CA-2012-141768,Yes,Defective
+US-2014-105998,Yes,Arrived Damaged
+CA-2011-116673,Yes,Not as Expected
+CA-2012-100146,Yes,Defective
+CA-2011-101462,Yes,Arrived Damaged
+CA-2013-129728,Yes,Defective
+US-2014-167318,Yes,Wrong Item Shipped
+ES-2011-1591803,Yes,Arrived Damaged
+ES-2011-1808201,Yes,Not as Expected
+ES-2014-2033123,Yes,Defective
+IT-2012-5541212,Yes,Wrong Item Shipped
+IT-2012-2117720,Yes,Arrived Damaged
+IT-2013-2634279,Yes,Arrived Damaged
+ES-2013-4250728,Yes,Defective
+IT-2012-3490826,Yes,Not as Expected
+ES-2013-1953205,Yes,Arrived Damaged
+ES-2013-4180252,Yes,Defective
+TU-2011-660,Yes,Defective
+TU-2011-8780,Yes,Arrived Damaged
+TU-2013-1610,Yes,Not as Expected
+TU-2013-5470,Yes,Not as Expected
+TU-2014-5170,Yes,Not as Expected
+TU-2012-5560,Yes,Not as Expected
+TU-2013-6430,Yes,Arrived Damaged
+TU-2013-8610,Yes,Arrived Damaged
+TU-2014-8720,Yes,Arrived Damaged
+NI-2012-4860,Yes,Defective
+NI-2012-3590,Yes,Defective
+NI-2012-5980,Yes,Arrived Damaged
+NI-2013-7440,Yes,Wrong Item Shipped
+NI-2011-4450,Yes,Wrong Item Shipped
+NI-2013-4780,Yes,Arrived Damaged
+TZ-2011-1130,Yes,Not as Expected
+KZ-2014-4630,Yes,Wrong Item Shipped
+IT-2012-1698939,Yes,Wrong Item Shipped
+IT-2013-3779238,Yes,Not as Expected
+IT-2014-1147467,Yes,Defective
+IT-2011-4409734,Yes,Not as Expected
+IT-2013-5208514,Yes,Wrong Item Shipped
+IT-2014-5935536,Yes,Arrived Damaged
+ES-2011-4665208,Yes,Defective
+ES-2012-2058076,Yes,Wrong Item Shipped
+IT-2014-2449347,Yes,Defective
+ES-2014-3900205,Yes,Not as Expected
+ES-2013-4987734,Yes,Defective
+ID-2011-83982,Yes,Defective
+ID-2011-69142,Yes,Not as Expected
+IN-2013-42521,Yes,Defective
+ID-2013-18504,Yes,Defective
+ID-2013-13422,Yes,Defective
+IN-2014-73258,Yes,Wrong Item Shipped
+ID-2014-26869,Yes,Not as Expected
+ID-2014-81875,Yes,Defective
+ID-2014-84297,Yes,Defective
+ID-2014-82064,Yes,Defective
+ID-2011-57494,Yes,Defective
+ID-2011-15711,Yes,Wrong Item Shipped
+IN-2011-18987,Yes,Arrived Damaged
+ID-2012-70843,Yes,Arrived Damaged
+IN-2013-75106,Yes,Arrived Damaged
+IN-2014-50228,Yes,Arrived Damaged
+ID-2012-61722,Yes,Not as Expected
+IN-2013-33995,Yes,Defective
+ID-2013-37705,Yes,Wrong Item Shipped
+ID-2013-76128,Yes,Not as Expected
+ID-2011-74721,Yes,Defective
+ID-2011-74175,Yes,Not as Expected
+IN-2012-63150,Yes,Arrived Damaged
+IN-2012-70087,Yes,Not as Expected
+ID-2012-50543,Yes,Not as Expected
+IN-2012-50886,Yes,Not as Expected
+IN-2012-42479,Yes,Defective
+IN-2013-70430,Yes,Defective
+IN-2013-38475,Yes,Not as Expected
+IN-2013-43522,Yes,Wrong Item Shipped
+IN-2014-44257,Yes,Defective
+ID-2014-67581,Yes,Not as Expected
+ID-2014-24391,Yes,Not as Expected
+ID-2014-36263,Yes,Wrong Item Shipped
+MX-2013-162390,Yes,Not as Expected
+US-2013-156713,Yes,Defective
+US-2014-117009,Yes,Defective
+MX-2014-140788,Yes,Defective
+US-2013-122707,Yes,Arrived Damaged
+US-2014-117765,Yes,Arrived Damaged
+US-2013-130092,Yes,Defective
+US-2013-131296,Yes,Not as Expected
+MX-2014-109057,Yes,Arrived Damaged
+MX-2014-114776,Yes,Not as Expected
+US-2013-141439,Yes,Defective
+US-2013-119914,Yes,Wrong Item Shipped
+US-2013-155642,Yes,Defective
+US-2014-120922,Yes,Wrong Item Shipped
+US-2014-159814,Yes,Wrong Item Shipped
+US-2011-100629,Yes,Arrived Damaged
+US-2011-127439,Yes,Wrong Item Shipped
+US-2012-164609,Yes,Not as Expected
+US-2012-107090,Yes,Arrived Damaged
+US-2014-100237,Yes,Defective
+US-2014-103170,Yes,Defective
+MX-2014-138569,Yes,Wrong Item Shipped
+US-2013-111332,Yes,Arrived Damaged
+US-2013-106845,Yes,Not as Expected
+US-2014-122749,Yes,Arrived Damaged
+NI-2013-4460,Yes,Defective
+NI-2011-9200,Yes,Defective
+NI-2014-9120,Yes,Defective
+US-2013-169117,Yes,Wrong Item Shipped
+MX-2014-153857,Yes,Not as Expected
+US-2013-151946,Yes,Not as Expected
+MX-2013-140200,Yes,Arrived Damaged
+US-2011-157917,Yes,Wrong Item Shipped
+KZ-2011-730,Yes,Not as Expected
+ZI-2013-810,Yes,Defective
+ES-2012-3715659,Yes,Wrong Item Shipped
+IN-2012-31349,Yes,Arrived Damaged
+IN-2014-77605,Yes,Not as Expected
+ID-2014-33330,Yes,Arrived Damaged
+ID-2014-27555,Yes,Wrong Item Shipped
+ES-2011-2140658,Yes,Arrived Damaged
+IT-2011-5515844,Yes,Arrived Damaged
+IT-2012-1226862,Yes,Not as Expected
+IT-2013-5450529,Yes,Wrong Item Shipped
+ES-2014-2364837,Yes,Wrong Item Shipped
+IT-2014-5603908,Yes,Defective
+ID-2013-22445,Yes,Wrong Item Shipped
+IN-2011-51859,Yes,Defective
+ID-2011-23068,Yes,Defective
+IN-2011-20443,Yes,Not as Expected
+IN-2014-43018,Yes,Arrived Damaged
+ID-2012-70052,Yes,Wrong Item Shipped
+MX-2013-162719,Yes,Defective
+ID-2011-81917,Yes,Wrong Item Shipped
+ID-2014-80657,Yes,Not as Expected
+US-2013-103513,Yes,Defective
+US-2014-127894,Yes,Not as Expected
+US-2014-117828,Yes,Arrived Damaged
+US-2013-169446,Yes,Arrived Damaged
+US-2014-156699,Yes,Defective
+TU-2011-1470,Yes,Not as Expected
+TU-2013-2150,Yes,Arrived Damaged
+TU-2013-4930,Yes,Arrived Damaged
+TU-2014-4980,Yes,Not as Expected
+TU-2014-6730,Yes,Wrong Item Shipped
+TU-2012-5470,Yes,Not as Expected
+TU-2014-6160,Yes,Not as Expected
+TU-2012-8800,Yes,Wrong Item Shipped
+TU-2013-2790,Yes,Not as Expected
+ES-2012-4352460,Yes,Defective
+NI-2014-5110,Yes,Not as Expected
+IT-2014-4197253,Yes,Arrived Damaged
+YM-2014-3460,Yes,Not as Expected
+ES-2013-1853161,Yes,Defective
+IT-2013-3869215,Yes,Arrived Damaged
+MX-2014-128293,Yes,Wrong Item Shipped
+TZ-2012-1230,Yes,Wrong Item Shipped
+ES-2014-1817870,Yes,Defective
+ES-2011-2861735,Yes,Wrong Item Shipped
+ES-2012-4633993,Yes,Arrived Damaged
+ES-2014-1695428,Yes,Defective
+IT-2011-5001014,Yes,Wrong Item Shipped
+US-2012-148425,Yes,Wrong Item Shipped
+ID-2012-66503,Yes,Not as Expected
+US-2012-145849,Yes,Defective
+IN-2012-48744,Yes,Arrived Damaged
+ZI-2012-7800,Yes,Arrived Damaged
+ID-2013-61442,Yes,Defective
+ID-2013-32686,Yes,Defective
+ID-2013-64284,Yes,Defective
+TU-2013-5780,Yes,Defective
+TU-2014-6180,Yes,Defective
+ID-2014-51439,Yes,Wrong Item Shipped
+TU-2014-4220,Yes,Defective
+NI-2014-2970,Yes,Arrived Damaged
+MX-2014-153899,Yes,Wrong Item Shipped
+MX-2014-114195,Yes,Defective
+ID-2012-16243,Yes,Defective
+MX-2013-143028,Yes,Wrong Item Shipped
+IT-2014-5192801,Yes,Wrong Item Shipped
+ES-2014-5928432,Yes,Defective
+ES-2014-5852851,Yes,Not as Expected
+US-2011-164259,Yes,Arrived Damaged
+MX-2013-144113,Yes,Arrived Damaged
+US-2014-167500,Yes,Not as Expected
+NI-2014-6860,Yes,Not as Expected
+ZI-2014-5970,Yes,Defective
+KZ-2014-8670,Yes,Wrong Item Shipped
+TU-2014-1390,Yes,Wrong Item Shipped
+IT-2014-5778325,Yes,Not as Expected
+ID-2011-13436,Yes,Wrong Item Shipped
+ID-2011-30747,Yes,Arrived Damaged
+ID-2012-39595,Yes,Wrong Item Shipped
+ID-2013-23299,Yes,Defective
+ID-2014-48191,Yes,Arrived Damaged
+IN-2014-20702,Yes,Wrong Item Shipped
+IN-2014-63591,Yes,Wrong Item Shipped
+ID-2012-43900,Yes,Defective
+IN-2012-27499,Yes,Not as Expected
+IN-2012-35255,Yes,Wrong Item Shipped
+IN-2013-10181,Yes,Arrived Damaged
+ID-2013-70122,Yes,Wrong Item Shipped
+IT-2012-2197138,Yes,Defective
+ES-2013-1739400,Yes,Wrong Item Shipped
+IT-2013-4523429,Yes,Wrong Item Shipped
+ES-2013-1682342,Yes,Arrived Damaged
+MX-2011-145765,Yes,Wrong Item Shipped
+US-2011-151232,Yes,Not as Expected
+US-2013-122357,Yes,Defective
+US-2013-105543,Yes,Defective
+US-2014-138212,Yes,Arrived Damaged
+US-2014-100146,Yes,Wrong Item Shipped
+ID-2011-77332,Yes,Defective
+ID-2011-74574,Yes,Wrong Item Shipped
+ID-2012-63899,Yes,Defective
+IN-2012-24321,Yes,Not as Expected
+ID-2013-46567,Yes,Defective
+ID-2014-40939,Yes,Arrived Damaged
+US-2013-140494,Yes,Arrived Damaged
+KZ-2014-8290,Yes,Wrong Item Shipped
+NI-2014-7000,Yes,Not as Expected
+ES-2012-4551093,Yes,Not as Expected
+IT-2013-2454517,Yes,Arrived Damaged
+ES-2013-2007462,Yes,Arrived Damaged
+ES-2014-5204081,Yes,Defective
+US-2011-134950,Yes,Not as Expected
+US-2012-162684,Yes,Arrived Damaged
+US-2012-147081,Yes,Arrived Damaged
+US-2013-123078,Yes,Defective
+TU-2011-1200,Yes,Wrong Item Shipped
+TU-2011-6350,Yes,Wrong Item Shipped
+TU-2012-790,Yes,Defective
+TU-2013-5750,Yes,Defective
+TU-2013-9560,Yes,Wrong Item Shipped
+ID-2012-51544,Yes,Wrong Item Shipped
+ID-2013-53273,Yes,Arrived Damaged
+ID-2014-58243,Yes,Arrived Damaged
+IN-2014-18084,Yes,Wrong Item Shipped
+NI-2012-1680,Yes,Arrived Damaged
+ES-2013-5377036,Yes,Arrived Damaged
+MX-2014-140137,Yes,Arrived Damaged
+US-2014-161242,Yes,Arrived Damaged
+IT-2012-3746228,Yes,Wrong Item Shipped
+US-2011-119711,Yes,Not as Expected
+ES-2013-4416168,Yes,Wrong Item Shipped
+IT-2014-3150765,Yes,Arrived Damaged
+ES-2014-3850519,Yes,Wrong Item Shipped
+TU-2014-5850,Yes,Arrived Damaged
+TU-2012-1680,Yes,Wrong Item Shipped
+TU-2012-9810,Yes,Defective
+ID-2012-58201,Yes,Not as Expected
+IT-2012-3613157,Yes,Not as Expected
+TU-2013-2020,Yes,Not as Expected
+US-2013-139010,Yes,Defective
+NI-2013-5540,Yes,Arrived Damaged
+MX-2014-112305,Yes,Defective
+ID-2014-49388,Yes,Wrong Item Shipped
+ID-2014-20128,Yes,Defective
+IN-2013-83534,Yes,Wrong Item Shipped
+US-2012-112032,Yes,Defective
+US-2012-135034,Yes,Arrived Damaged
+US-2012-126284,Yes,Defective
+MX-2012-138135,Yes,Arrived Damaged
+US-2014-169740,Yes,Arrived Damaged
+ID-2012-46392,Yes,Not as Expected
+IN-2013-29676,Yes,Defective
+ES-2013-4916727,Yes,Not as Expected
+US-2014-147704,Yes,Wrong Item Shipped
+MX-2014-154858,Yes,Not as Expected
+US-2014-128279,Yes,Wrong Item Shipped
+IT-2011-5063480,Yes,Arrived Damaged
+TU-2012-7030,Yes,Arrived Damaged
+US-2013-167150,Yes,Wrong Item Shipped
+ID-2012-71858,Yes,Defective
+MX-2013-162481,Yes,Defective
+US-2013-144050,Yes,Not as Expected
+ID-2013-49136,Yes,Arrived Damaged
+IT-2014-4483445,Yes,Wrong Item Shipped
+TU-2011-9560,Yes,Defective
+TU-2011-5680,Yes,Defective
+IN-2014-78228,Yes,Wrong Item Shipped
+US-2013-136196,Yes,Wrong Item Shipped
+ID-2011-17174,Yes,Arrived Damaged
+ES-2013-2215507,Yes,Wrong Item Shipped
+IN-2013-73237,Yes,Not as Expected
+IT-2013-4100054,Yes,Not as Expected
+ID-2014-62289,Yes,Not as Expected
+MX-2012-149216,Yes,Not as Expected
+MX-2013-152716,Yes,Not as Expected
+IN-2011-57676,Yes,Not as Expected
+IT-2012-1314917,Yes,Defective
+MX-2014-142629,Yes,Wrong Item Shipped
+ID-2011-13170,Yes,Not as Expected
+TU-2012-9080,Yes,Wrong Item Shipped
+TU-2014-200,Yes,Defective
+ES-2014-4714649,Yes,Not as Expected
+MX-2011-134824,Yes,Wrong Item Shipped
+US-2012-139892,Yes,Not as Expected
+TU-2013-100,Yes,Wrong Item Shipped
+ES-2013-1540151,Yes,Arrived Damaged
+ID-2013-84199,Yes,Wrong Item Shipped
+MX-2014-108840,Yes,Wrong Item Shipped
+YM-2013-9360,Yes,Defective
+TU-2013-1220,Yes,Arrived Damaged
+US-2013-132374,Yes,Arrived Damaged
+IN-2014-15956,Yes,Not as Expected
+ID-2013-48709,Yes,Defective
+ID-2013-19309,Yes,Arrived Damaged
+IN-2014-65936,Yes,Wrong Item Shipped
+NI-2011-1270,Yes,Not as Expected
+ES-2012-4442950,Yes,Defective
+IT-2013-2032199,Yes,Defective
+ES-2014-1513855,Yes,Not as Expected
+IT-2014-1168526,Yes,Not as Expected
+ES-2012-1157133,Yes,Defective
+IT-2014-3280659,Yes,Defective
+UG-2012-9920,Yes,Defective
+IT-2011-2709916,Yes,Arrived Damaged
+IN-2013-50025,Yes,Arrived Damaged
+IT-2013-4993682,Yes,Not as Expected
+IT-2014-2305722,Yes,Defective
+ID-2013-85536,Yes,Wrong Item Shipped
+ID-2014-86593,Yes,Not as Expected
+ES-2014-2156896,Yes,Arrived Damaged
+ID-2011-11385,Yes,Wrong Item Shipped
+ID-2012-65236,Yes,Defective
+ID-2013-43354,Yes,Arrived Damaged
+ID-2014-52923,Yes,Not as Expected
+IT-2012-5981970,Yes,Arrived Damaged
+NI-2013-9450,Yes,Not as Expected
+NI-2014-890,Yes,Arrived Damaged
+NI-2014-8250,Yes,Arrived Damaged
+NI-2011-8520,Yes,Not as Expected
+NI-2014-4860,Yes,Wrong Item Shipped
+MX-2011-106173,Yes,Defective
+MX-2013-153094,Yes,Defective
+US-2014-147578,Yes,Not as Expected
+MX-2012-131121,Yes,Not as Expected
+MX-2014-106355,Yes,Defective
+US-2011-129504,Yes,Arrived Damaged
+MX-2013-135090,Yes,Arrived Damaged
+MX-2013-132416,Yes,Not as Expected
+MX-2011-132066,Yes,Not as Expected
+MX-2012-122630,Yes,Defective
+MX-2012-111430,Yes,Wrong Item Shipped
+US-2012-149517,Yes,Defective
+MX-2013-134593,Yes,Not as Expected
+US-2012-151561,Yes,Wrong Item Shipped
+US-2013-159359,Yes,Not as Expected
+US-2013-154795,Yes,Not as Expected
+US-2013-164077,Yes,Defective
+US-2013-159415,Yes,Not as Expected
+MX-2013-105459,Yes,Arrived Damaged
+MX-2014-121552,Yes,Wrong Item Shipped
+US-2014-114958,Yes,Defective
+TU-2014-8570,Yes,Wrong Item Shipped
+TU-2012-1300,Yes,Wrong Item Shipped
+TU-2011-6490,Yes,Defective
+TU-2012-9500,Yes,Wrong Item Shipped
+TU-2012-6550,Yes,Wrong Item Shipped
+ID-2013-52594,Yes,Arrived Damaged
+IN-2013-11168,Yes,Defective
+ID-2014-60854,Yes,Defective
+IN-2011-15270,Yes,Wrong Item Shipped
+ID-2013-79579,Yes,Wrong Item Shipped
+ID-2014-13135,Yes,Not as Expected
+IN-2012-40778,Yes,Defective
+ID-2014-35122,Yes,Arrived Damaged
+IN-2014-32812,Yes,Wrong Item Shipped
+ID-2011-43977,Yes,Not as Expected
+ID-2013-13562,Yes,Wrong Item Shipped
+IN-2013-13681,Yes,Not as Expected
+ID-2014-29914,Yes,Arrived Damaged
+ID-2014-15515,Yes,Wrong Item Shipped
+ID-2014-63864,Yes,Not as Expected
+MX-2012-160388,Yes,Wrong Item Shipped
+US-2012-130155,Yes,Arrived Damaged
+MX-2013-111556,Yes,Not as Expected
+US-2014-164455,Yes,Wrong Item Shipped
+US-2014-145660,Yes,Wrong Item Shipped
+IT-2011-2459755,Yes,Arrived Damaged
+IT-2012-5253267,Yes,Defective
+IT-2014-1866474,Yes,Wrong Item Shipped
+US-2011-122665,Yes,Arrived Damaged
+US-2011-108721,Yes,Defective
+US-2011-160171,Yes,Arrived Damaged
+US-2012-123330,Yes,Wrong Item Shipped
+US-2012-131156,Yes,Wrong Item Shipped
+US-2013-132535,Yes,Wrong Item Shipped
+US-2011-137309,Yes,Arrived Damaged
+US-2012-123876,Yes,Arrived Damaged
+US-2014-112011,Yes,Not as Expected
+US-2014-131786,Yes,Defective
+ES-2012-3944475,Yes,Arrived Damaged
+ES-2012-3802742,Yes,Defective
+ES-2014-2385129,Yes,Wrong Item Shipped
+ES-2013-5656834,Yes,Not as Expected
+ES-2014-1933744,Yes,Defective
+IT-2012-2582915,Yes,Arrived Damaged
+ES-2012-5128771,Yes,Defective
+ES-2013-4721019,Yes,Arrived Damaged
+IN-2012-18035,Yes,Wrong Item Shipped
+IN-2013-54673,Yes,Not as Expected
+ID-2014-86180,Yes,Defective
+ID-2011-62884,Yes,Wrong Item Shipped
+ID-2014-10650,Yes,Not as Expected
+ID-2012-82428,Yes,Arrived Damaged
+IN-2013-54554,Yes,Arrived Damaged
+IN-2013-83947,Yes,Arrived Damaged
+IN-2014-82176,Yes,Not as Expected
+IN-2011-81840,Yes,Not as Expected
+ID-2012-84010,Yes,Wrong Item Shipped
+IN-2014-21451,Yes,Not as Expected
+IN-2012-40603,Yes,Arrived Damaged
+IN-2013-44404,Yes,Arrived Damaged
+IN-2013-50578,Yes,Not as Expected
+IN-2013-61505,Yes,Defective
+IN-2012-22914,Yes,Defective
+IN-2012-60126,Yes,Arrived Damaged
+ID-2013-30705,Yes,Not as Expected
+IN-2011-55884,Yes,Defective
+ID-2013-25329,Yes,Wrong Item Shipped
+IN-2013-65901,Yes,Defective
+IN-2013-56794,Yes,Defective
+IN-2013-66972,Yes,Not as Expected
+IN-2014-48079,Yes,Wrong Item Shipped
+IN-2013-70353,Yes,Defective
+IN-2014-25679,Yes,Arrived Damaged
+IN-2013-44460,Yes,Arrived Damaged
+IN-2013-52804,Yes,Defective
+IN-2014-32077,Yes,Wrong Item Shipped
+IN-2011-32196,Yes,Not as Expected
+IN-2013-35745,Yes,Arrived Damaged
+ID-2011-56941,Yes,Not as Expected
+ID-2013-34709,Yes,Wrong Item Shipped
+IN-2014-78816,Yes,Defective
+IN-2012-77185,Yes,Arrived Damaged
+IN-2014-27345,Yes,Arrived Damaged
+IN-2012-78305,Yes,Not as Expected
+ID-2014-21276,Yes,Defective
+IN-2012-44096,Yes,Not as Expected
+IN-2013-41681,Yes,Wrong Item Shipped
+IN-2014-52174,Yes,Arrived Damaged
+IN-2013-11994,Yes,Arrived Damaged
+IN-2014-26260,Yes,Defective
+IN-2013-38979,Yes,Wrong Item Shipped
+IN-2011-20387,Yes,Not as Expected
+IN-2012-72600,Yes,Arrived Damaged
+IN-2013-79159,Yes,Defective
+ID-2014-63584,Yes,Defective
+IN-2014-20191,Yes,Defective
+IN-2011-37817,Yes,Defective
+IN-2013-62527,Yes,Not as Expected
+IN-2013-55576,Yes,Arrived Damaged
+IN-2013-54428,Yes,Wrong Item Shipped
+IN-2011-40652,Yes,Defective
+IN-2014-14129,Yes,Arrived Damaged
+IN-2014-75736,Yes,Arrived Damaged
+IN-2014-38321,Yes,Arrived Damaged
+IN-2014-32385,Yes,Arrived Damaged
+IN-2012-39777,Yes,Defective
+IN-2011-29725,Yes,Not as Expected
+IN-2014-43396,Yes,Not as Expected
+US-2013-110156,Yes,Not as Expected
+US-2014-160836,Yes,Arrived Damaged
+CA-2014-104927,Yes,Arrived Damaged
+US-2011-161613,Yes,Not as Expected
+CA-2013-128706,Yes,Arrived Damaged
+CA-2013-164770,Yes,Defective
+CA-2011-152100,Yes,Defective
+CA-2013-116799,Yes,Defective
+CA-2014-100314,Yes,Defective
+US-2014-137491,Yes,Arrived Damaged
+US-2014-139969,Yes,Not as Expected
+CA-2014-156622,Yes,Not as Expected
+CA-2011-165393,Yes,Arrived Damaged
+US-2012-149692,Yes,Defective
+CA-2013-117226,Yes,Arrived Damaged
+US-2013-114013,Yes,Defective
+US-2013-151827,Yes,Arrived Damaged
+CA-2013-155747,Yes,Wrong Item Shipped
+CA-2014-169817,Yes,Defective
+US-2011-151015,Yes,Not as Expected
+CA-2014-145093,Yes,Defective
+CA-2011-163867,Yes,Wrong Item Shipped
+US-2011-134971,Yes,Defective
+CA-2011-153976,Yes,Not as Expected
+CA-2012-126970,Yes,Arrived Damaged
+US-2013-157945,Yes,Defective
+CA-2014-107629,Yes,Defective
+CA-2012-111339,Yes,Arrived Damaged
+US-2011-117380,Yes,Not as Expected
+CA-2013-125080,Yes,Wrong Item Shipped
+CA-2014-157469,Yes,Defective
+CA-2013-108196,Yes,Wrong Item Shipped
+US-2012-136259,Yes,Wrong Item Shipped
+CA-2014-152261,Yes,Defective
+CA-2014-155740,Yes,Not as Expected
+CA-2014-112487,Yes,Arrived Damaged
+CA-2011-148586,Yes,Arrived Damaged
+CA-2013-162943,Yes,Arrived Damaged
+CA-2011-156349,Yes,Not as Expected
+US-2013-128902,Yes,Defective
+US-2013-100839,Yes,Not as Expected
+CA-2014-130764,Yes,Arrived Damaged
+CA-2011-146591,Yes,Not as Expected
+CA-2011-131947,Yes,Defective
+CA-2012-149384,Yes,Wrong Item Shipped
+CA-2013-167507,Yes,Not as Expected
+CA-2014-102414,Yes,Wrong Item Shipped
+US-2014-107979,Yes,Wrong Item Shipped
+CA-2013-112697,Yes,Defective
+CA-2011-148425,Yes,Defective
+CA-2012-141565,Yes,Defective
+CA-2013-156573,Yes,Not as Expected
+CA-2014-140872,Yes,Not as Expected
+US-2014-149510,Yes,Not as Expected
+CA-2014-117156,Yes,Arrived Damaged
+US-2012-131842,Yes,Wrong Item Shipped
+CA-2011-116407,Yes,Arrived Damaged
+CA-2011-152254,Yes,Wrong Item Shipped
+CA-2012-136224,Yes,Arrived Damaged
+CA-2013-142895,Yes,Defective
+CA-2011-148285,Yes,Wrong Item Shipped
+US-2012-164357,Yes,Not as Expected
+CA-2011-123316,Yes,Not as Expected
+CA-2014-116127,Yes,Defective
+CA-2012-132080,Yes,Defective
+CA-2013-159730,Yes,Wrong Item Shipped
+CA-2014-157273,Yes,Arrived Damaged
+CA-2011-140816,Yes,Wrong Item Shipped
+US-2014-106131,Yes,Defective
+US-2012-144771,Yes,Wrong Item Shipped
+CA-2014-133648,Yes,Wrong Item Shipped
+CA-2012-123141,Yes,Defective
+CA-2013-152247,Yes,Defective
+CA-2012-129896,Yes,Wrong Item Shipped
+CA-2013-112669,Yes,Wrong Item Shipped
+CA-2013-114748,Yes,Not as Expected
+US-2013-114230,Yes,Wrong Item Shipped
+CA-2014-134880,Yes,Wrong Item Shipped
+CA-2013-103128,Yes,Wrong Item Shipped
+CA-2013-124051,Yes,Arrived Damaged
+CA-2011-154627,Yes,Defective
+CA-2013-110044,Yes,Arrived Damaged
+CA-2011-156342,Yes,Not as Expected
+CA-2012-104297,Yes,Arrived Damaged
+CA-2013-158547,Yes,Arrived Damaged
+US-2013-129469,Yes,Defective
+CA-2011-152422,Yes,Not as Expected
+US-2014-162208,Yes,Arrived Damaged
+CA-2011-130918,Yes,Defective
+CA-2011-127488,Yes,Arrived Damaged
+CA-2011-154158,Yes,Wrong Item Shipped
+US-2012-106495,Yes,Arrived Damaged
+US-2014-153633,Yes,Defective
+CA-2012-125563,Yes,Defective
+CA-2012-161998,Yes,Not as Expected
+CA-2013-138695,Yes,Not as Expected
+US-2011-149034,Yes,Not as Expected
+CA-2014-117394,Yes,Arrived Damaged
+US-2014-131583,Yes,Defective
+US-2014-117723,Yes,Arrived Damaged
+CA-2014-112984,Yes,Not as Expected
+CA-2011-103800,Yes,Defective
+CA-2014-130043,Yes,Wrong Item Shipped
+CA-2011-154186,Yes,Not as Expected
+CA-2013-159695,Yes,Arrived Damaged
+CA-2014-112473,Yes,Defective
+CA-2013-111318,Yes,Arrived Damaged
+CA-2014-157420,Yes,Wrong Item Shipped
+CA-2013-165218,Yes,Wrong Item Shipped
+CA-2014-127922,Yes,Arrived Damaged
+CA-2011-151554,Yes,Arrived Damaged
+CA-2011-109932,Yes,Wrong Item Shipped
+CA-2014-144820,Yes,Wrong Item Shipped
+CA-2011-147543,Yes,Defective
+CA-2012-111038,Yes,Not as Expected
+CA-2013-148740,Yes,Defective
+CA-2012-152513,Yes,Arrived Damaged
+CA-2013-133802,Yes,Defective
+CA-2012-144099,Yes,Wrong Item Shipped
+US-2014-119039,Yes,Wrong Item Shipped
+CA-2014-125990,Yes,Not as Expected
+CA-2013-144148,Yes,Wrong Item Shipped
+CA-2013-157686,Yes,Not as Expected
+CA-2013-155530,Yes,Wrong Item Shipped
+CA-2012-146038,Yes,Arrived Damaged
+CA-2012-102316,Yes,Wrong Item Shipped
+CA-2014-118885,Yes,Wrong Item Shipped
+US-2013-139710,Yes,Defective
+CA-2011-154837,Yes,Not as Expected
